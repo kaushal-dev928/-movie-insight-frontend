@@ -8,7 +8,7 @@ Frontend:
 https://movie-insight-frontend.vercel.app
 
 Backend:
-[https://your-railway-link](https://movie-insight-backend-production.up.railway.app)
+https://movie-insight-backend-production.up.railway.app
 
 Example:
 https://your-backend/api/movie/tt0133093
