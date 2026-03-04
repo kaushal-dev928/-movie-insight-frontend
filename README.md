@@ -5,10 +5,10 @@ A full-stack web application where users enter an IMDb movie ID and get movie de
 ## Live Demo
 
 Frontend:
-https://your-vercel-link
+https://movie-insight-frontend.vercel.app
 
 Backend:
-https://your-railway-link
+[https://your-railway-link](https://movie-insight-backend-production.up.railway.app)
 
 Example:
 https://your-backend/api/movie/tt0133093
